@@ -1,4 +1,6 @@
-### File-Transfer under implimentation of UDP&TCP (Underline)
+### File-Transfer under implimentation of UDP&TCP 
+
+-------------
 
 <img src = "images/interface.PNG" >
 
