@@ -11,7 +11,7 @@ After opening the project for UDPServer/Client or TCPServer/Client check the cus
 
 ----
 
-<centere ><img src = "images/source.PNG" ></centere>
+<p align="center"><img src = "images/source.PNG" ></p>
 
 <img src = "images/interface.PNG" >
 
