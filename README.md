@@ -2,7 +2,7 @@
 
 -------------
 
-### How to use
+### To run
 
 -------------
 For first you will have to use netbeans or any IDE that will aloww you to call and change the arguments of the main method, please follow example on netbeans below.
